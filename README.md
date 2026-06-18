@@ -27,3 +27,11 @@ A DSP grabs low end of incoming audio, does some normalization (or not) and send
 These LRA drivers are the jewel of the project: automatic f_0 tracking, closed loop, etc etc read the zine.
 
 To avoid delay between audio and motion, a headphone jack is included so its really close. Yeah.
+
+## BOM
+|name           |quantity|cost |link                                                                        |
+|---------------|--------|-----|----------------------------------------------------------------------------|
+|PCB            |1       |TBA  |gerbers in this repo                                                        |
+|LRA            |2       |15.66|https://www.digikey.com/en/products/detail/vybronics-inc/VG2230001H/16719289|
+|1c LiPo >500mAh|1       |5    |tear one out of genuinely anything                                          |
+|Case           |1       |~2   |Simple ahh 3d printed case costs like 10 cents in filament                  |
