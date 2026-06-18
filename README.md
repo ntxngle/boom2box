@@ -6,6 +6,7 @@ This project is a small gadget that drives two LRAs according to music input via
 - Leg
 - Wall
 - Cat
+
 This is to replicate the feeling of having high power speakers which I can neither afford nor run.
 
 ## Tuff photos
