@@ -12,6 +12,7 @@ This is to replicate the feeling of having high power speakers which I can neith
 ## Tuff photos
 
 Since the project isn't tuff I don't have tuff photos. Here are some unrelated photos.
+<img width="540" height="828" alt="zine" src="https://github.com/user-attachments/assets/f3b5ef9c-fa7f-4068-9d0e-f56e957b4466" />
 <img width="1450" height="1182" alt="image" src="https://github.com/user-attachments/assets/266bcf15-d228-45be-88c4-0dd892033e72" />
 <img width="1446" height="1174" alt="image" src="https://github.com/user-attachments/assets/3947af42-64a2-4085-950c-a2b8a018a6e5" />
 <img width="723" height="631" alt="image" src="https://github.com/user-attachments/assets/e0be31f9-4a4b-4669-8a21-ea853d82682e" />
