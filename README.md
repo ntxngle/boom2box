@@ -31,7 +31,7 @@ To avoid delay between audio and motion, a headphone jack is included so its rea
 ## BOM
 |name           |quantity|cost |link                                                                        |
 |---------------|--------|-----|----------------------------------------------------------------------------|
-|PCB            |1       |TBA  |gerbers in this repo                                                        |
+|PCB            |1       |76.32|gerbers in this repo                                                        |
 |LRA VG2230001H |2       |15.66|https://www.digikey.com/en/products/detail/vybronics-inc/VG2230001H/16719289|
 |1c LiPo >500mAh|1       |5    |tear one out of genuinely anything                                          |
 |Case           |1       |~2   |Simple ahh 3d printed case costs like 10 cents in filament                  |
