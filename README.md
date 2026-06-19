@@ -1,11 +1,11 @@
 # boom2box
-## Whattf
+## What and Why
 
 A driver that adapts LF signals from music to LRAs mounted on headphones to enhance felt bass experience. It does this with a bunch of QoL features like leds, neopixel, switches, audio jack for lantency free experience.
 
 In addition, the LRAs can be mounted to not only headphones: shaking a table or chair can also produce excellent results.
 
-This is to replicate the feeling of having high power speakers which I can neither afford nor run.
+This is to replicate the feeling of having high power speakers which I can neither afford nor run. I always enjoy bass in music, and this project should hopefully replicate this experience at minimal cost (and minimal noise to peers)
 
 ## Tuff photos
 
@@ -21,7 +21,7 @@ Since the project isn't tuff I don't have tuff photos. Here are some unrelated p
 <img width="1257" height="879" alt="image" src="https://github.com/user-attachments/assets/5be70417-4902-43f8-b68d-c0ccfb30effc" />
 
 
-## Howtf
+## How it works
 A DSP grabs low end of incoming audio, does some normalization (or not) and sends waveform to LRA driver.
 
 These LRA drivers are the jewel of the project: automatic f_0 tracking, closed loop, etc etc read the zine.
