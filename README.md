@@ -1,11 +1,9 @@
 # boom2box
 ## Whattf
-This project is a small gadget that drives two LRAs according to music input via bluetooth. Said LRAs are mountable anywhere:
-- Headphones
-- Table
-- Leg
-- Wall
-- Cat
+
+A driver that adapts LF signals from music to LRAs mounted on headphones to enhance felt bass experience. It does this with a bunch of QoL features like leds, neopixel, switches, audio jack for lantency free experience.
+
+In addition, the LRAs can be mounted to not only headphones: shaking a table or chair can also produce excellent results.
 
 This is to replicate the feeling of having high power speakers which I can neither afford nor run.
 
