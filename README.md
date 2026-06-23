@@ -17,8 +17,6 @@ Since the project isn't tuff I don't have tuff photos. Here are some unrelated p
 <img width="723" height="631" alt="image" src="https://github.com/user-attachments/assets/e0be31f9-4a4b-4669-8a21-ea853d82682e" />
 <img width="712" height="627" alt="image" src="https://github.com/user-attachments/assets/d77b0d56-c1ea-4805-8470-9a55efb729e8" />
 <img width="1491" height="1017" alt="image" src="https://github.com/user-attachments/assets/4682836f-ccd8-4566-ae52-10e5be78a430" />
-<img width="1251" height="868" alt="image" src="https://github.com/user-attachments/assets/834a80c6-830f-4cba-8263-9c56d6bd75f5" />
-<img width="1257" height="879" alt="image" src="https://github.com/user-attachments/assets/5be70417-4902-43f8-b68d-c0ccfb30effc" />
 
 
 ## How it works
