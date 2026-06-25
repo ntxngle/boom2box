@@ -33,3 +33,4 @@ To avoid delay between audio and motion, a headphone jack is included. This way 
 |LRA VG2230001H |2       |15.66|https://www.digikey.com/en/products/detail/vybronics-inc/VG2230001H/16719289|
 |1c LiPo >500mAh|1       |5    |tear one out of genuinely anything                                          |
 |Case           |1       |~2   |Simple ahh 3d printed case costs like 10 cents in filament                  |
+|total          |1       |98.98| |
